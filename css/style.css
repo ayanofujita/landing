@@ -20,4 +20,20 @@ a {
   text-decoration: none;
 }
 
+.section2 {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section2 h1 {
+  margin-bottom: 50px;
+}
+
+.card-container {
+  display: flex;
+  align-items: center;
+}
+
 /* Custom design below! */
